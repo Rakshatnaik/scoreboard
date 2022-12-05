@@ -7,7 +7,7 @@ let count2 = 0
 
 function homeOne() {
     count1 += 1
-    first_score.innerText =  count1  
+    first_score.innerText = count1
 }
 
 
@@ -24,7 +24,7 @@ function homeThree() {
 
 function guestOne() {
     count2 += 1
-    second_score.innerText =  count2  
+    second_score.innerText = count2
 }
 
 
