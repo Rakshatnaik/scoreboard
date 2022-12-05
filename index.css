@@ -22,7 +22,7 @@ body {
     font-size: 40px;
     line-height: 36px;
     /* identical to box height, or 90% */
-
+    margin: auto;
     text-align: center;
 
     color: #EEEEEE;
